@@ -1,0 +1,7 @@
+input {
+    border-radius: 25px;
+}
+
+label, input {
+    padding: 5px;
+}
